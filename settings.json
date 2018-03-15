@@ -1,0 +1,15 @@
+{
+    "editor.fontSize": 15,
+    "workbench.colorTheme": "Base16 Tomorrow Dark",
+    "workbench.iconTheme": "vscode-great-icons",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.wordWrap": "on",
+    "editor.lineHeight": 22,
+    "editor.fontLigatures": true,
+    "editor.fontFamily": "Fira Code, Monaco, 'Courier New', monospace",
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "editor.links": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+}

@@ -1,0 +1,26 @@
+[
+	{
+		"name": "TruthFinder",
+		"rootPath": "$home/vagrants/public-records/sites/public-records-app/public/truthfinder.com/funnel",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "Instant Checkmate",
+		"rootPath": "$home/vagrants/public-records/sites/public-records-app/public/instantcheckmate.com/funnel",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "config",
+		"rootPath": "$home/vagrants/public-records/sites/public-records-site-configs",
+		"paths": [],
+		"group": ""
+	},
+	{
+		"name": "ICM help",
+		"rootPath": "$home/code/instantcheckmate-help",
+		"paths": [],
+		"group": ""
+	}
+]
